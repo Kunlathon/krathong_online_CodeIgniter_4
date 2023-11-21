@@ -1,0 +1,160 @@
+@import url(https://fonts.googleapis.com/css?family=Kanit:300,400,600);@charset "UTF-8";
+
+/*!
+ * Bootstrap v3.4.1 (https://getbootstrap.com/)
+ * Copyright 2011-2019 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
+
+.bg-main {
+  min-height: 400px;
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+
+
+
+.bg-main.bg-respose {
+  min-height: 900px;
+  overflow: hidden;
+}
+
+
+
+.bg-main h1 {
+  text-indent: -9999px;
+}
+
+.bg-main #floating-lantern {
+  cursor: pointer;
+  position: relative;
+  float: right;
+  width: 13rem;
+  top: 4rem;
+}
+
+
+.bg-main .river {
+  height: 100px;
+  position: absolute;
+  z-index: 99;
+  width: 100%;
+  bottom: 0;
+}
+
+
+
+
+
+.bg-main .river .items-thumb img {
+  width: 150px;
+  height: auto;
+}
+
+.bg-main .river .item-base-slide {
+  position: absolute;
+  float: left;
+  left: -150px;
+}
+
+.bg-main .river .items-swing {
+  position: relative;
+  -webkit-animation: 2s linear normal none infinite swing;
+          animation: 2s linear normal none infinite swing;
+  /*-moz-transform-origin: center top;*/
+}
+
+.bg-main .river .items-topdown {
+  position: relative;
+  -webkit-animation: 2s linear normal none infinite topdown;
+          animation: 2s linear normal none infinite topdown;
+}
+
+.bg-main .river .item-wish {
+  position: absolute;
+  bottom: 80px;
+  font-size: 13px;
+  cursor: pointer;
+  background-color: #fff;
+  border-radius: 5px;
+  border: 1px solid #000;
+  padding: 5px;
+  display: none;
+}
+
+.bg-main .river .item-base-slide:hover .item-wish,
+.bg-main .river .items-active .item-wish {
+  display: block;
+  z-index: 99;
+}
+
+.bg-main .well-response {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+
+
+.bg-main .images-reponse img {
+  max-width: 300px;
+}
+
+.bg-main .krathong-count {
+  font-family: Kanit, sans-serif;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  right: 15px;
+}
+
+.bg-main .krathong-count .nums-items {
+  color: white;
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

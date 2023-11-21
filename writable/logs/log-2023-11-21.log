@@ -1,0 +1,1610 @@
+CRITICAL - 2023-11-21 10:04:18 --> Undefined variable $copy_url
+in APPPATH\Views\welcome_message.php on line 36.
+ 1 APPPATH\Views\welcome_message.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $copy_url', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php', 36)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 10:04:57 --> Undefined variable $copy_url
+in APPPATH\Views\welcome_message.php on line 36.
+ 1 APPPATH\Views\welcome_message.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $copy_url', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php', 36)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 10:05:44 --> Undefined variable $copy_url
+in APPPATH\Views\welcome_message.php on line 69.
+ 1 APPPATH\Views\welcome_message.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $copy_url', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php', 69)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 10:05:47 --> Undefined variable $copy_url
+in APPPATH\Views\welcome_message.php on line 69.
+ 1 APPPATH\Views\welcome_message.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $copy_url', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php', 69)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 10:05:47 --> Undefined variable $copy_url
+in APPPATH\Views\welcome_message.php on line 69.
+ 1 APPPATH\Views\welcome_message.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $copy_url', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php', 69)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 10:05:47 --> Undefined variable $copy_url
+in APPPATH\Views\welcome_message.php on line 69.
+ 1 APPPATH\Views\welcome_message.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $copy_url', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php', 69)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 10:05:47 --> Undefined variable $copy_url
+in APPPATH\Views\welcome_message.php on line 69.
+ 1 APPPATH\Views\welcome_message.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $copy_url', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php', 69)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 10:05:48 --> Undefined variable $copy_url
+in APPPATH\Views\welcome_message.php on line 69.
+ 1 APPPATH\Views\welcome_message.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $copy_url', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php', 69)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 10:06:00 --> Undefined variable $copy_url
+in APPPATH\Views\welcome_message.php on line 69.
+ 1 APPPATH\Views\welcome_message.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $copy_url', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php', 69)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:35 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:39 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:40 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:40 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:41 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:41 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:41 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:41 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:41 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:42 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:42 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:42 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:42 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:42 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:43 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:43 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:43 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:55:49 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:57:51 --> A table must be specified when creating a new Query Builder.
+in SYSTEMPATH\Database\BaseBuilder.php on line 307.
+ 1 SYSTEMPATH\Database\BaseConnection.php(889): CodeIgniter\Database\BaseBuilder->__construct(null, Object(CodeIgniter\Database\MySQLi\Connection))
+ 2 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 3 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 4 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:57:52 --> A table must be specified when creating a new Query Builder.
+in SYSTEMPATH\Database\BaseBuilder.php on line 307.
+ 1 SYSTEMPATH\Database\BaseConnection.php(889): CodeIgniter\Database\BaseBuilder->__construct(null, Object(CodeIgniter\Database\MySQLi\Connection))
+ 2 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 3 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 4 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:57:53 --> A table must be specified when creating a new Query Builder.
+in SYSTEMPATH\Database\BaseBuilder.php on line 307.
+ 1 SYSTEMPATH\Database\BaseConnection.php(889): CodeIgniter\Database\BaseBuilder->__construct(null, Object(CodeIgniter\Database\MySQLi\Connection))
+ 2 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 3 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 4 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:57:53 --> A table must be specified when creating a new Query Builder.
+in SYSTEMPATH\Database\BaseBuilder.php on line 307.
+ 1 SYSTEMPATH\Database\BaseConnection.php(889): CodeIgniter\Database\BaseBuilder->__construct(null, Object(CodeIgniter\Database\MySQLi\Connection))
+ 2 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 3 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 4 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:59:14 --> Call to undefined method App\Models\krathong_Mode::getITems
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 14:59:15 --> Call to undefined method App\Models\krathong_Mode::getITems
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Run_kra.php(10): CodeIgniter\Model->__call('getITems', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 15:11:23 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 131.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(131): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 131)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 5 APPPATH\Controllers\Run_kra.php(12): view('run_kra_jquery/running_krathong', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 15:16:04 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 131.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(131): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 131)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 5 APPPATH\Controllers\Run_kra.php(12): view('run_kra_jquery/running_krathong', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 15:18:34 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 186.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(186): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 186)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 5 APPPATH\Controllers\Run_kra.php(12): view('run_kra_jquery/running_krathong', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 15:21:15 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 186.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(186): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 186)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 5 APPPATH\Controllers\Run_kra.php(12): view('run_kra_jquery/running_krathong', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 15:21:17 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 186.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(186): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 186)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 5 APPPATH\Controllers\Run_kra.php(12): view('run_kra_jquery/running_krathong', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 15:27:31 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 186.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(186): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 186)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 5 APPPATH\Controllers\Run_kra.php(12): view('run_kra_jquery/running_krathong', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 15:27:33 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 186.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(186): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 186)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 5 APPPATH\Controllers\Run_kra.php(12): view('run_kra_jquery/running_krathong', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 15:27:33 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 186.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(186): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 186)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 5 APPPATH\Controllers\Run_kra.php(12): view('run_kra_jquery/running_krathong', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 15:27:33 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 186.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(186): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 186)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 5 APPPATH\Controllers\Run_kra.php(12): view('run_kra_jquery/running_krathong', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 15:27:34 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 186.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(186): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 186)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 5 APPPATH\Controllers\Run_kra.php(12): view('run_kra_jquery/running_krathong', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 15:31:12 --> Class "App\Controllers\row_krathong" not found
+in APPPATH\Controllers\Run_kra.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-21 15:32:21 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#4 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-21 15:32:21 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `krathong_rc` ORDER BY `krathong_datetime` DESC')
+ 3 APPPATH\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-21 15:33:33 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#4 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2023-11-21 15:33:37 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#5 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-21 15:33:37 --> Call to a member function more_results() on bool
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 298.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM `krathong_rc` ORDER BY `krathong_datetime` DESC')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `krathong_rc` ORDER BY `krathong_datetime` DESC')
+ 3 APPPATH\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `krathong_rc` ORDER BY `krathong_datetime` DESC')
+ 4 APPPATH\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-21 15:35:30 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#4 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2023-11-21 15:35:34 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#5 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-21 15:35:34 --> Call to a member function query() on bool
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM `krathong_rc` ORDER BY `krathong_datetime` DESC')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `krathong_rc` ORDER BY `krathong_datetime` DESC')
+ 3 APPPATH\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `krathong_rc` ORDER BY `krathong_datetime` DESC')
+ 4 APPPATH\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-21 15:37:32 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#4 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2023-11-21 15:37:36 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#5 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-21 15:37:36 --> Call to a member function getResultArray() on bool
+in APPPATH\Models\Krathong_Mode.php on line 13.
+ 1 APPPATH\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-21 15:46:53 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#4 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2023-11-21 15:46:57 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#5 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-21 15:46:57 --> Call to a member function getResultArray() on bool
+in APPPATH\Models\Krathong_Mode.php on line 13.
+ 1 APPPATH\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-21 15:47:50 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#4 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2023-11-21 15:47:54 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#5 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\app\Models\Krathong_Mode.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+#5 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#6 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-21 15:47:54 --> Call to a member function getResultArray() on bool
+in APPPATH\Models\Krathong_Mode.php on line 13.
+ 1 APPPATH\Controllers\Run_kra.php(10): App\Models\krathong_Mode->row_krathong()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-21 15:58:10 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#6 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2023-11-21 15:58:14 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#6 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#8 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#11 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2023-11-21 16:01:08 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#6 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2023-11-21 16:01:12 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#6 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#8 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#11 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-11-21 16:01:12 --> Call to a member function getResult() on bool
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 191.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 4 APPPATH\Controllers\Run_kra.php(8): view('run_kra_jquery/running_krathong')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-21 16:02:49 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#6 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2023-11-21 16:02:53 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#6 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#8 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#11 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM `...')
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM `...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-11-21 16:02:53 --> Call to a member function getResult() on bool
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 191.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 4 APPPATH\Controllers\Run_kra.php(8): view('run_kra_jquery/running_krathong')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-21 16:06:26 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#3 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#6 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2023-11-21 16:06:30 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#6 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#8 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#11 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM k...')
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-11-21 16:06:30 --> Call to a member function getResult() on bool
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 191.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 4 APPPATH\Controllers\Run_kra.php(8): view('run_kra_jquery/running_krathong')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-21 16:10:32 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#3 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#6 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2023-11-21 16:10:36 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#6 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#8 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#11 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM k...')
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-11-21 16:10:36 --> Call to a member function getResult() on bool
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 191.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 4 APPPATH\Controllers\Run_kra.php(8): view('run_kra_jquery/running_krathong')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-21 16:13:57 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#3 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#6 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2023-11-21 16:14:01 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#6 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#8 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#11 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM k...')
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-11-21 16:14:01 --> Call to a member function getResult() on bool
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 191.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 4 APPPATH\Controllers\Run_kra.php(8): view('run_kra_jquery/running_krathong')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-21 16:15:18 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#3 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#6 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2023-11-21 16:15:22 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#6 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#8 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#11 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM k...')
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-11-21 16:15:22 --> Call to a member function getresult() on bool
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 191.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 4 APPPATH\Controllers\Run_kra.php(8): view('run_kra_jquery/running_krathong')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-21 16:17:57 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#3 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#6 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2023-11-21 16:18:02 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#6 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#8 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#11 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM k...')
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-11-21 16:18:02 --> foreach() argument must be of type array|object, bool given
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 192.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(192): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, bool given', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 192)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 5 APPPATH\Controllers\Run_kra.php(8): view('run_kra_jquery/running_krathong')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-21 16:19:38 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#3 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#6 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#7 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2023-11-21 16:19:42 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'krathong', 3306, '', 0)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#6 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#8 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#11 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in E:\laragon_regina\www\krathong_online\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(690): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\laragon_regina\www\krathong_online\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM k...')
+#3 E:\laragon_regina\www\krathong_online\app\Views\run_kra_jquery\running_krathong.php(190): CodeIgniter\Database\BaseConnection->query('SELECT * FROM k...')
+#4 E:\laragon_regina\www\krathong_online\system\View\View.php(228): include('E:\\laragon_regi...')
+#5 E:\laragon_regina\www\krathong_online\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 E:\laragon_regina\www\krathong_online\system\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/...', Array, true)
+#7 E:\laragon_regina\www\krathong_online\app\Controllers\Run_kra.php(8): view('run_kra_jquery/...')
+#8 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+#9 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+#10 E:\laragon_regina\www\krathong_online\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\laragon_regina\www\krathong_online\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-11-21 16:19:42 --> Call to a member function fetch_assoc() on bool
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 191.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 4 APPPATH\Controllers\Run_kra.php(8): view('run_kra_jquery/running_krathong')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 16:54:41 --> include(E:\laragon_regina\www\krathong_online\app\app/Database_pdo/krathong_pdo): Failed to open stream: No such file or directory
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 3.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(E:\\laragon_regina\\www\\krathong_online\\app\\app/Database_pdo/krathong_pdo): Failed to open stream: No such file or directory', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 3)
+ 2 APPPATH\Views\run_kra_jquery\running_krathong.php(3): include()
+ 3 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 6 APPPATH\Controllers\Run_kra.php(8): view('run_kra_jquery/running_krathong')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 16:55:00 --> include(E:\laragon_regina\www\krathong_online\app\app/Database_pdo/krathong_pdo.php): Failed to open stream: No such file or directory
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 3.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(E:\\laragon_regina\\www\\krathong_online\\app\\app/Database_pdo/krathong_pdo.php): Failed to open stream: No such file or directory', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 3)
+ 2 APPPATH\Views\run_kra_jquery\running_krathong.php(3): include()
+ 3 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 6 APPPATH\Controllers\Run_kra.php(8): view('run_kra_jquery/running_krathong')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 17:00:44 --> Undefined array key "krathong_key "
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 193.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(193): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "krathong_key "', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 193)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 5 APPPATH\Controllers\Run_kra.php(8): view('run_kra_jquery/running_krathong')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 17:36:58 --> Undefined array key "kf_img"
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 169.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(169): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kf_img"', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 169)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 5 APPPATH\Controllers\Run_kra.php(8): view('run_kra_jquery/running_krathong')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 17:38:39 --> Undefined array key "kf_key"
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 169.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(169): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kf_key"', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 169)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 5 APPPATH\Controllers\Run_kra.php(8): view('run_kra_jquery/running_krathong')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 17:38:41 --> Undefined array key "kf_key"
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 169.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(169): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kf_key"', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 169)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 5 APPPATH\Controllers\Run_kra.php(8): view('run_kra_jquery/running_krathong')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 17:38:43 --> Undefined array key "kf_key"
+in APPPATH\Views\run_kra_jquery\running_krathong.php on line 169.
+ 1 APPPATH\Views\run_kra_jquery\running_krathong.php(169): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kf_key"', 'E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php', 169)
+ 2 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\run_kra_jquery\\running_krathong.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('run_kra_jquery/running_krathong', [], true)
+ 5 APPPATH\Controllers\Run_kra.php(8): view('run_kra_jquery/running_krathong')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Run_kra->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Run_kra))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 18:34:54 --> Cannot declare class count_krathong, because the name is already in use
+in APPPATH\Database_pdo\krathong_class.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-21 18:38:01 --> Cannot declare class count_krathong, because the name is already in use
+in APPPATH\Database_pdo\krathong_class.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-21 18:38:01 --> Cannot declare class count_krathong, because the name is already in use
+in APPPATH\Database_pdo\krathong_class.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-21 18:38:02 --> Cannot declare class count_krathong, because the name is already in use
+in APPPATH\Database_pdo\krathong_class.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-21 18:38:02 --> Cannot declare class count_krathong, because the name is already in use
+in APPPATH\Database_pdo\krathong_class.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-21 18:38:02 --> Cannot declare class count_krathong, because the name is already in use
+in APPPATH\Database_pdo\krathong_class.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-21 18:41:21 --> Cannot declare class count_krathong, because the name is already in use
+in APPPATH\Database_pdo\krathong_class.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-21 18:41:22 --> Cannot declare class count_krathong, because the name is already in use
+in APPPATH\Database_pdo\krathong_class.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-21 18:41:22 --> Cannot declare class count_krathong, because the name is already in use
+in APPPATH\Database_pdo\krathong_class.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-21 18:41:22 --> Cannot declare class count_krathong, because the name is already in use
+in APPPATH\Database_pdo\krathong_class.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-21 18:41:25 --> Cannot declare class count_krathong, because the name is already in use
+in APPPATH\Database_pdo\krathong_class.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-21 18:41:26 --> Cannot declare class count_krathong, because the name is already in use
+in APPPATH\Database_pdo\krathong_class.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-21 19:02:52 --> Class "int_krathong" not found
+in APPPATH\Views\welcome_message.php on line 5.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 19:02:53 --> Class "int_krathong" not found
+in APPPATH\Views\welcome_message.php on line 5.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 19:02:53 --> Class "int_krathong" not found
+in APPPATH\Views\welcome_message.php on line 5.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 19:02:53 --> Class "int_krathong" not found
+in APPPATH\Views\welcome_message.php on line 5.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 19:02:54 --> Class "int_krathong" not found
+in APPPATH\Views\welcome_message.php on line 5.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 19:02:54 --> Class "int_krathong" not found
+in APPPATH\Views\welcome_message.php on line 5.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 19:02:54 --> Class "int_krathong" not found
+in APPPATH\Views\welcome_message.php on line 5.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 19:02:54 --> Class "int_krathong" not found
+in APPPATH\Views\welcome_message.php on line 5.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 19:02:55 --> Class "int_krathong" not found
+in APPPATH\Views\welcome_message.php on line 5.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-21 19:02:55 --> Class "int_krathong" not found
+in APPPATH\Views\welcome_message.php on line 5.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
