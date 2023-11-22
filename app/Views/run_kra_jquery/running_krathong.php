@@ -14,9 +14,9 @@
 
 <style type="text/css">
     .bg-province1 {
-          background: url("<?php echo base_url();?>/img/krathong.jpg") no-repeat center;
+        background: url("<?php echo base_url();?>/img/krathong.jpg") no-repeat center;
         background-size: cover;
-        background-position: top;
+        background-position: top;ผ
     }
 </style>
 

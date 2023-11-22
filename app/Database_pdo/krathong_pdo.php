@@ -19,6 +19,7 @@
 							//echo "Connected successfully";
 						}catch(PDOException $e){
 							echo "Connection failed: ->pdo_krathong<-" . $e->getMessage();
+							$conndb_krathong=$e->getMessage();
 						}
 				}else{
 					$newstu_server="localhost";
@@ -32,6 +33,7 @@
 							//echo "Connected successfully";
 						}catch(PDOException $e){
 							echo "Connection failed: ->pdo_krathong<-" . $e->getMessage();
+							$conndb_krathong=$e->getMessage();
 						}					
 				}		
 //------------------------------------------------------------------------------------------------------------				
