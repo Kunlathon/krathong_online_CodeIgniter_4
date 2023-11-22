@@ -45,6 +45,8 @@
             $this->mk_kw=$mk_kw;
             $this->mk_kf=$mk_kf;
 
+            $data_time=date("Y-m-d H:i:s");
+            $data_key=date("YmdHis");
             $krathong_dataID=$_SERVER['REMOTE_ADDR'];
 			$connect_data=new count_krathong($krathong_dataID);
 			$pdodata_krathong=$connect_data->call_coun_krathong();
@@ -69,6 +71,18 @@
                                 $krathong_array="-";
                                 $krathong_error="error";
                             }
+                    }catch(PDOException $e){
+                        $krathong_array="-";
+                        $krathong_error="error";
+                    }
+                }elseif(($this->mk_type=="add")){
+                    $krathong_key=$this->mk_kk.$data_key;
+                    try{
+                        $krathong_sql="INSERT INTO `krathong_rc`(`krathong_key`, `krathong_name`, `krathong_wish`, `krathong_kf`, `krathong_datetime`) 
+                                       VALUES ('{$krathong_key}','{$this->mk_kn}','{$this->mk_kw}','{$this->mk_kf}','{$data_time}')";
+                        $pdodata_krathong->exec($krathong_sql);
+                        $krathong_array="-";
+                        $krathong_error="no_error";
                     }catch(PDOException $e){
                         $krathong_array="-";
                         $krathong_error="error";

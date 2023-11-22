@@ -14,7 +14,7 @@
 
 <style type="text/css">
     .bg-province1 {
-          background: url("https://f.ptcdn.info/853/012/000/1385990975-asd-o.jpg") no-repeat center;
+          background: url("<?php echo base_url();?>/img/krathong.jpg") no-repeat center;
         background-size: cover;
         background-position: top;
     }
@@ -122,6 +122,26 @@
         }
     }
 
+    @keyframes slide3 {
+        0% {
+            left: -600;
+        }
+
+        100% {
+            left: 100%;
+        }
+    }
+
+    @keyframes slide3 {
+        0% {
+            left: -600;
+        }
+
+        100% {
+            left: 100%;
+        }
+    }
+
 </style>
 
     <style type="text/css">
@@ -180,7 +200,7 @@
                          <div class="items-slide-<?php echo $countA;?> item-base-slide" style="top: -<?php echo $KraImgRow["top"];?>px;">
                              <div class="items-topdown">
                                  <div class="items-swing item-<?php echo $countD;?> items-thumb">
-                                    <img src="<?php echo base_url();?>/img/<?php echo $KraImgRow["kf_img"];?>" alt="กระทง">
+                                    <img src="<?php echo base_url();?>/img/<?php echo $KraImgRow["kf_img"];?>" alt="กระทง" style="width: 90px;">
                                 </div>
                              </div>
                              <div class="item-wish">
@@ -224,6 +244,7 @@
                              </div>
                          </div>
                      </div>	-->
+                     
                  </div>
     </div>
 

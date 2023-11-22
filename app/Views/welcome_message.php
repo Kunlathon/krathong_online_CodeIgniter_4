@@ -33,9 +33,18 @@
 	<script src="<?php echo base_url();?>/Template/global_assets/js/plugins/notifications/pnotify.min.js"></script>
 	<script src="<?php echo base_url();?>/Template/global_assets/js/plugins/notifications/noty.min.js"></script>
 	<script src="<?php echo base_url();?>/Template/global_assets/js/plugins/notifications/jgrowl.min.js"></script>
-
-
 	<!-- /theme JS files -->
+
+	<!-- Theme JS files -->
+	<script src="<?php echo base_url();?>/Template/global_assets/js/plugins/notifications/bootbox.min.js"></script>
+	<!--<script src="<?php echo base_url();?>/Template/global_assets/js/demo_pages/components_modals.js"></script>-->
+	<!-- /theme JS files -->
+
+	<script src="<?php echo base_url();?>/Template/global_assets/js/plugins/notifications/sweet_alert.min.js"></script>
+
+
+
+
 
 	<script>
 		$(document).ready(function(){
@@ -60,6 +69,7 @@
 		})
 	</script>
 
+	
 
 </head>
 
@@ -98,17 +108,7 @@
 							<div class="card card-body border-top-dark">
 							
 								<div class="row">
-									<div class="col-md-9">
-										<div class="card border border-purple">
-											<div class="card-header header-elements-inline bg-dark text-white">
-												<h6 class="card-title">เลือกกระทงที่ต้องการลอย พร้อมกับตั้งจิตอธิษฐาน</h6>
-											</div>
 
-											<div class="card-body">
-												Bordered purple card using <code>.bg-dark</code> and <code>.border-purple</code> classes
-											</div>
-										</div>
-									</div>
 									<div class="col-md-3">
 										<div class="card border border-purple">
 											<div class="card-header header-elements-inline bg-dark text-white">
@@ -116,6 +116,179 @@
 											</div>
 										</div>
 									</div>
+
+									<div class="col-md-9">
+										<div class="card border border-purple">
+											<div class="card-header header-elements-inline bg-dark text-white">
+												<h6 class="card-title">เลือกกระทงที่ต้องการลอย พร้อมกับตั้งจิตอธิษฐาน</h6>
+											</div>
+
+											<div class="card-body">
+												
+
+
+												<div class="row">
+		<?php
+			$Call_img=new manage_img("loop","-","-","-","-");
+			foreach($Call_img->Print_img() as $rc_k=>$img_row){	?>
+
+													<div class="col-md-4">
+														<center>
+															<input type="image" name="run_kra" id="run_kra"  data-toggle="modal" data-target="#modal_krathong<?php echo $img_row["kf_key"];?>" src="<?php echo base_url();?>/img/<?php echo $img_row["kf_img"];?>" style="width: 240px; height: auto;" border="1">
+														</center>
+													</div>
+
+		            <!-- Disabled backdrop -->
+													<div id="modal_krathong<?php echo $img_row["kf_key"];?>" class="modal fade" data-backdrop="false" tabindex="-1">
+														<div class="modal-dialog">
+															<div class="modal-content">
+																<div class="modal-header">
+																	<h5 class="modal-title">กระทงของคุณ</h5>
+																	<button type="button" class="close" data-dismiss="modal">&times;</button>
+																</div>
+
+																<div class="modal-body">
+
+																	<div class="row">
+																		<div class="col-md-4">
+																			<img src="<?php echo base_url();?>/img/<?php echo $img_row["kf_img"];?>" class="rounded" alt="krathong" style="width: 120px; height: auto;"> 
+																		</div>
+																		<div class="col-md-8">
+																			<fieldset class="mb-3">
+																				<div class="form-group row">
+																					<label class="col-form-label col-md-3">ชื่อ</label>
+																					<div class="col-md-9">
+																						<input type="text" name="krathong_name<?php echo $img_row["kf_key"];?>" id="krathong_name<?php echo $img_row["kf_key"];?>" class="form-control" maxlength="100" title="ชื่อ" placeholder="ชื่อ">
+																					</div>
+																				</div>
+																			</fieldset>
+																			<fieldset class="mb-3">
+																				<div class="form-group row">
+																					<label class="col-form-label col-md-3">คำอธิษฐาน</label>
+																					<div class="col-md-9">
+																						<textarea  name="krathong_wish<?php echo $img_row["kf_key"];?>" id="krathong_wish<?php echo $img_row["kf_key"];?>" rows="3" cols="3" class="form-control" maxlength="600" title="คำอธิษฐาน" placeholder="คำอธิษฐาน"></textarea>
+																					</div>
+																				</div>
+																			</fieldset>
+																		</div>
+																	</div>
+
+																	<input type="hidden" name="krathong_kf<?php echo $img_row["kf_key"];?>" id="krathong_kf<?php echo $img_row["kf_key"];?>" value="<?php echo $img_row["kf_key"];?>">
+
+
+																</div>
+
+																<div class="modal-footer">
+																	<button type="button" class="btn btn-link" data-dismiss="modal">ปิด Close</button>
+																	<button type="button" data-dismiss="modal" name="button_img<?php echo $img_row["kf_key"];?>" id="button_img<?php echo $img_row["kf_key"];?>" class="btn btn-primary">พร้อมกับตั้งจิตอธิษฐาน ลอยกระทง</button>
+																</div>
+															</div>
+														</div>
+													</div>
+					<!-- /disabled backdrop -->
+
+	<script>
+		$(document).ready(function(){
+
+// Defaults
+				var swalInitUpdataKrathong = swal.mixin({
+                    buttonsStyling: false,
+                        customClass: {
+                            confirmButton: 'btn btn-primary',
+                            cancelButton: 'btn btn-light',
+                            denyButton: 'btn btn-light',
+                            input: 'form-control'
+                        }
+                });
+
+
+
+
+// Defaults End   
+
+			$("#button_img<?php echo $img_row["kf_key"];?>").on("click",function(){
+				var krathong_name=$("#krathong_name<?php echo $img_row["kf_key"];?>").val();
+				var krathong_wish=$("#krathong_wish<?php echo $img_row["kf_key"];?>").val();
+				var krathong_kf=$("#krathong_kf<?php echo $img_row["kf_key"];?>").val();
+				var compile="add";
+				var count_error=0;
+
+					if(krathong_name===""){
+						count_error=count_error+1
+					}else{
+						count_error=count_error+0
+					}
+
+					if(krathong_wish===""){
+						count_error=count_error+1
+					}else{
+						count_error=count_error+0
+					}
+
+					if(krathong_kf===""){
+						count_error=count_error+1
+					}else{
+						count_error=count_error+0
+					}
+
+					if(count_error>=1){
+
+					}else{
+						$.post("<?php echo base_url();?>/process/sql_pdo/"+compile,{
+							krathong_name:krathong_name,
+							krathong_wish:krathong_wish,
+							krathong_kf:krathong_kf,
+							compile:compile
+						},function(run_code){
+							var run_code=run_code.trim();
+								if(run_code==="no_error"){
+
+	
+									let timerInterval;
+                                    swalInitUpdataKrathong.fire({
+                                        title: 'ลอยกระทงสำเร็จ',
+                                        //html: 'I will close in <b></b> milliseconds.',
+                                        timer: 1200,
+                                        icon: 'success',
+                                        timerProgressBar: true,
+                                        didOpen: function() {
+                                            Swal.showLoading()
+                                            timerInterval = setInterval(function() {
+                                                const content = Swal.getContent();
+                                                if (content) {
+                                                    const b_profile = content.querySelector('b_profile')
+                                                    if (b_profile) {
+                                                        b_profile.textContent = Swal.getTimerLeft();
+                                                    }else{}
+                                                }else{}
+                                            }, 100);
+                                        },
+                                        willClose: function() {
+                                            clearInterval(timerInterval)
+                                        }
+                                    }).then(function (result) {
+                                        if (result.dismiss === Swal.DismissReason.timer) {
+                                             location.reload();
+                                        }else{}
+                                    });
+       
+									
+								}else{}
+						})
+					}	
+
+			})
+		})
+	</script>
+
+
+		<?php	} ?>
+												</div>
+
+											</div>
+										</div>
+									</div>
+
 								</div>
 
 							</div>

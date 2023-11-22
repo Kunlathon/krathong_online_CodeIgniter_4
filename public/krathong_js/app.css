@@ -10,7 +10,7 @@
 
 
 .bg-main {
-  min-height: 400px;
+  min-height: 500px;
   position: relative;
   width: 100%;
   overflow: hidden;
@@ -20,7 +20,7 @@
 
 
 .bg-main.bg-respose {
-  min-height: 900px;
+  min-height: 800px;
   overflow: hidden;
 }
 
