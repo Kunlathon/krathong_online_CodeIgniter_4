@@ -17,7 +17,7 @@
 	<meta property="og:type"          content="website" />
 	<meta property="og:title"         content="ชวนลอยกระทงออไลน์" />
 	<meta property="og:description"   content="Regina Coeli College" />
-    <meta property="og:image"         content="<?php echo base_url();?>/img/krathong.jpg" />
+    <meta property="og:image"         content="<?php echo base_url();?>/img/krathong2.jpg" />
 
 
 	<!-- Global stylesheets -->
