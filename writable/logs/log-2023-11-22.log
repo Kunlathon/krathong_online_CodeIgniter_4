@@ -1,0 +1,13 @@
+CRITICAL - 2023-11-22 14:52:16 --> Undefined variable $conndb_krathong
+in APPPATH\Database_pdo\krathong_pdo.php on line 38.
+ 1 APPPATH\Database_pdo\krathong_pdo.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $conndb_krathong', 'E:\\laragon_regina\\www\\krathong_online\\app\\Database_pdo\\krathong_pdo.php', 38)
+ 2 APPPATH\Database_pdo\krathong_class.php(7): count_krathong->__construct('127.0.0.1')
+ 3 APPPATH\Views\welcome_message.php(5): int_krathong->__construct()
+ 4 SYSTEMPATH\View\View.php(228): include('E:\\laragon_regina\\www\\krathong_online\\app\\Views\\welcome_message.php')
+ 5 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('welcome_message', [], true)
+ 7 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 8 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

@@ -31,11 +31,14 @@
 }
 
 .bg-main #floating-lantern {
-  cursor: pointer;
+  /*cursor: pointer;*/
   position: relative;
-  float: right;
-  width: 13rem;
-  top: 4rem;
+  float: left;
+  right: 10px;
+  margin-left: 58px;
+  /*width: 13rem;*/
+  width: 400px;
+  top: 5rem;
 }
 
 

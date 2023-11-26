@@ -179,8 +179,10 @@
             }*/
     </style>
 
-    <div class="bg-main bg-province1">
+    <div class="bg-main bg-province1" style="background-color: #012a4a;">
      
+                    <img id="floating-lantern" src="<?php echo base_url();?>/img/rc.png" class="rounded" alt="rc">
+
                  <div class="river">
 
         <?php

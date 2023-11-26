@@ -13,6 +13,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<title>ลอยกระทงออนไลน์ </title>
 
+	<meta property="og:url"           content="http://rc.regina.ac.th/Festival/krathong_online/" />
+	<meta property="og:type"          content="website" />
+	<meta property="og:title"         content="ชวนลอยกระทงออไลน์" />
+	<meta property="og:description"   content="Regina Coeli College" />
+    <meta property="og:image"         content="<?php echo base_url();?>/img/krathong.jpg" />
+
+
 	<!-- Global stylesheets -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
   
@@ -25,6 +32,8 @@
 	<script src="<?php echo base_url();?>/Template/global_assets/js/main/bootstrap.bundle.min.js"></script>
 	<!-- /core JS files -->
 
+	<div id="fb-root"></div>
+	<script async defer crossorigin="anonymous" src="https://connect.facebook.net/th_TH/sdk.js#xfbml=1&version=v18.0" nonce="JYOJky8t"></script>
 
 	<!-- Theme JS files -->
 	<script src="<?php echo base_url();?>/Template/global_assets/js/plugins/extensions/jquery_ui/core.min.js"></script>
@@ -73,7 +82,7 @@
 
 </head>
 
-<body style="background-color: #000000;">
+<body style="background-color: #012a4a;">
 
 	<!-- Page content -->
 	<div class="page-content">
@@ -103,9 +112,9 @@
 						</div>
 					</div>
 
-					<div class="row">
+					<div class="row" >
 						<div class="col-md-12">
-							<div class="card card-body border-top-dark">
+							<div class="card card-body border-top-dark" style="background-color: #0e5277;">
 							
 								<div class="row">
 
@@ -115,6 +124,13 @@
 												<div id="Print_Sum_Kra"></div>
 											</div>
 										</div>
+
+										<div class="card border border-purple">
+											<div class="card-header header-elements-inline bg-dark text-white">
+												<div class="fb-share-button" data-href="http://rc.regina.ac.th/Festival/krathong_online/" data-layout="" data-size=""><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Frc.regina.ac.th%2FFestival%2Fkrathong_online%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">แชร์</a></div>
+											</div>
+										</div>
+
 									</div>
 
 									<div class="col-md-9">
@@ -303,15 +319,14 @@
 				<!-- Footer -->
 				<div class="navbar navbar-expand-lg navbar-light border-bottom-0 border-top">
 					<div class="text-center d-lg-none w-100">
-						<button type="button" class="navbar-toggler dropdown-toggle" data-toggle="collapse" data-target="#navbar-footer">
-							<i class="icon-unfold mr-2"></i>
-							Footer
+						<button type="button" class="navbar-toggler " data-toggle="collapse" data-target="#navbar-footer">
+							&copy; 2023 <a href="http://www.regina.ac.th/">Regina Coeli College</a> by <a href="" target="_blank">Regina ICT</a>
 						</button>
 					</div>
 
-					<div class="navbar-collapse collapse" id="navbar-footer">
+					<div class="navbar-collapse collapse" >
 						<span class="navbar-text">
-							&copy; 2015 - 2018. <a href="#">Limitless Web App Kit</a> by <a href="https://themeforest.net/user/Kopyov" target="_blank">Eugene Kopyov</a>
+							&copy; 2023 <a href="http://www.regina.ac.th/">Regina Coeli College</a> by <a href="" target="_blank">Regina ICT</a>
 						</span>
 					</div>
 				</div>
