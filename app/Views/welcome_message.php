@@ -1,7 +1,6 @@
 <?php
     include(APPPATH. "Database_pdo/krathong_pdo.php");
     include(APPPATH. "Database_pdo/krathong_class.php");
-
 	$sum_krathong=new int_krathong();
 ?>
 
@@ -15,7 +14,7 @@
 
 	<meta property="og:url"           content="http://rc.regina.ac.th/Festival/krathong_online/" />
 	<meta property="og:type"          content="website" />
-	<meta property="og:title"         content="ชวนลอยกระทงออไลน์" />
+	<meta property="og:title"         content="ชวนลอยกระทงออนไลน์" />
 	<meta property="og:description"   content="Regina Coeli College" />
     <meta property="og:image"         content="<?php echo base_url();?>/img/krathong2.jpg" />
 
@@ -73,7 +72,9 @@
 			var sum_kra="<?php echo $sum_krathong->int_kra;?>";
 				if(sum_kra!==""){
 					var txt_sum_kra=sum_kra.toLocaleString();
-					document.getElementById("Print_Sum_Kra").innerHTML='<h6 class="card-title">จำนวนกระทงที่ลอยแล้ว ' +txt_sum_kra+ ' กระทง</h6>';
+					document.getElementById("Print_Sum_Kra").innerHTML=
+					'<h6 class="card-title">จำนวนกระทงที่ลอยแล้ว ' +txt_sum_kra+ ' กระทง</h6>'
+					+'<h6 class="card-title">'+txt_sum_kra+' Krathongs has been floated</h6>';
 				}else{}
 		})
 	</script>
@@ -108,6 +109,8 @@
 								<button type="button" class="close" data-dismiss="alert"><span>&times;</span></button>
 								<div>คำแปลคำอธิษฐานลอยกระทง</div>
 								<div>ในวันลอยกระทงนี้ ข้าพเจ้าทั้งหลายอธิษฐานและขอบูชารอยพระพุทธบาท ซึ่งตั้งอยู่บริเวณทิศเหนือของแม่น้ำนัมมทานทีด้วยกระทงประทีปนี้ ขอให้เกิดประโยชน์และความสุขแก่ข้าพเจ้าทั้งหลายสิ้นกาลและนานเทอญ</div>
+								<div>Loy Krathong prayers</div>
+								<div>In this Loy Krathong, We pray to follow buddhist ways which locate in the north of Nammatanti. With this Krathong we wish good things and happiness to happened in my life.</div>
 							</div>
 						</div>
 					</div>
@@ -136,7 +139,10 @@
 									<div class="col-md-9">
 										<div class="card border border-purple">
 											<div class="card-header header-elements-inline bg-dark text-white">
-												<h6 class="card-title">เลือกกระทงที่ต้องการลอย พร้อมกับตั้งจิตอธิษฐาน</h6>
+												<h6 class="card-title">
+													<div>เลือกกระทงที่ต้องการลอย พร้อมกับตั้งจิตอธิษฐาน</div>
+													<div>Choose Krathong that you need to float and pray.</div>
+												</h6>
 											</div>
 
 											<div class="card-body">

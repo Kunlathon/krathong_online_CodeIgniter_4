@@ -56,7 +56,7 @@
 
                 if(($this->mk_type=="row_all")){
                     try{
-                        $krathong_sql="SELECT * FROM `krathong_rc` ORDER BY `krathong_datetime` DESC";
+                        $krathong_sql="SELECT * FROM `krathong_rc` ORDER BY `krathong_datetime` DESC LIMIT 0, 10;";
                             if(($krathong_rs=$pdodata_krathong->query($krathong_sql))){
                                 while($krathong_row=$krathong_rs->Fetch(PDO::FETCH_ASSOC)){
                                     if((is_array($krathong_row) and count($krathong_row))){
